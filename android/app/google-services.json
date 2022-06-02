@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720729431797",
+    "project_id": "dot-mobile-e6199",
+    "storage_bucket": "dot-mobile-e6199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720729431797:android:8da60da877a788c5512fbc",
+        "android_client_info": {
+          "package_name": "com.dot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720729431797-b5hf7fhqn64gmeoqdriuhi0l72v5imp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjwUAWGqonEaHHvlO9Ou9TvYxx25XZ4Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720729431797-b5hf7fhqn64gmeoqdriuhi0l72v5imp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
