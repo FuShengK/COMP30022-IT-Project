@@ -11,7 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/46154514/171566025-bba29d05-113e-4376-93e8-fa86877de6a6.png)
 
-
+---
 # Table of Contents
 1. [Product Background](#Product-Background)
 2. [How to use it](#How-to-use-it)
@@ -35,6 +35,7 @@
 | Tian-De Ye      | Document            	    |  Amazing! |
 | Zi-Yang Huang   | Product manager      	    |  Amazing! |
 
+---
 # Product Background
 This app aims to help users manage their relationships with their customers, co-workers, and all kinds of relations.
 We will allow users to create contacts and utilize many other basic functions that are already existing in many current social media applicaitons. This product also allow user to create meetings and set up events based on the contacts in the built-in calendar
@@ -50,7 +51,6 @@ We will allow users to create contacts and utilize many other basic functions th
 
 
 ---
-
 # How to use it
 
 > Clone the file from the repository, install Flutter and Dart package in the local repository (May need Android Studio)
@@ -72,7 +72,6 @@ $ flutter pub upgrade
 ```
 
 ---
-
 # Screen Pages
 ## Home
 ![](https://i.imgur.com/4Uk0g6b.png)
@@ -90,7 +89,6 @@ $ flutter pub upgrade
 ![](https://i.imgur.com/6gZRw3q.png)
 
 ---
-
 # Project management
 > ## Notion   [![](https://i.imgur.com/vBHn9GZ.png)](https://fusheng.notion.site/DOT-IT-Project-Team21-22d5a2591d68424689ce005f63518d34) 
 
